@@ -1,4 +1,4 @@
-#Ubuntu with java
+#Ubuntu with java on docker
 FROM ubuntu:latest
 MAINTAINER pardha <koye.pegasian@gmail.com>
 
